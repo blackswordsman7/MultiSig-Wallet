@@ -583,12 +583,12 @@
     "1561811737462": {
       "events": {},
       "links": {},
-      "address": "0xeFd7B88070E0380A9582C127B2aA302D43D00222",
-      "transactionHash": "0xbd7f88ed49ae21f516302ed191a1ca43261fdf5bec4cfb4a50966c62e6bae44a"
+      "address": "0x50e3ab0Aa884D259838b1E0e7866f914493fc3B2",
+      "transactionHash": "0x1de8198d9c58ad55a9139ce6b0f70ab814651a0c580852ddb38520a42cc7599e"
     }
   },
   "schemaVersion": "3.0.11",
-  "updatedAt": "2019-07-01T07:03:55.236Z",
+  "updatedAt": "2019-07-01T09:33:09.225Z",
   "devdoc": {
     "methods": {}
   },
